@@ -1,0 +1,1 @@
+web: gunicorn djanog_forum.wsgi
